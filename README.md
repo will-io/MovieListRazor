@@ -12,3 +12,6 @@ cons:
 -Visual Studio(2019) and Windows SQL Server Management Studio are heavy programs that utilize lots of Ram and power to run causing some lag.
 -Files can quickly feel cluttered, but helps with abstracion.
 
+![](examples/PowerConsumption.PNG)
+![](examples/create_sql.gif)
+![](examples/RUD.gif)
