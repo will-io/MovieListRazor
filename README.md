@@ -1,7 +1,7 @@
 # MovieListRazor
 razorpage using ASPNET core 3.1 to perform CRUD operations on SQL server
 
-I wanted to try out Windows developer Envirement, so I decided to build a simple ASP.NET core 3.1 CRUD web-app razor page
+I wanted to try out Windows developer Envirement, so I decided to build a simple ASP.NET core 3.1 CRUD web-app razor page to make a list of my favorite moviews I have watched.
 
 Pros:
  - Visual studio is incredible for debugging in development
